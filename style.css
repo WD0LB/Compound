@@ -1,0 +1,14 @@
+* {
+	font-family: cursive;
+}
+h2 , h5 {
+	font-family: cursive;
+}
+.header {
+    background-color: #b7cdf5a6;
+}
+
+.result {
+	font-family: fantasy;
+	font-size: larger;
+}
